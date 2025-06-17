@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "calles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "nombre": "Calle 1", "longitud_m": 252.90425479691237, "tipo_trafico": "bajo" }, "geometry": { "type": "LineString", "coordinates": [ [ 451.247802915636726, 726.775625471910757 ], [ 292.049647612020806, 530.264787495204359 ] ] } },
+{ "type": "Feature", "properties": { "id": 1, "nombre": "Calle 2", "longitud_m": 830.15280873608458, "tipo_trafico": "alto" }, "geometry": { "type": "LineString", "coordinates": [ [ 124.05571946728378, 446.589250752844748 ], [ 903.973696387002747, 730.986218264565878 ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "nombre": "Calle 3", "longitud_m": 584.89200847012523, "tipo_trafico": "bajo" }, "geometry": { "type": "LineString", "coordinates": [ [ 761.265180219602257, 886.172021877525822 ], [ 368.433439537166009, 452.833949369900267 ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "nombre": "Calle 4", "longitud_m": 491.93070134109723, "tipo_trafico": "medio" }, "geometry": { "type": "LineString", "coordinates": [ [ 622.349338528147769, 376.398836742290712 ], [ 133.876585311031846, 318.173547679596368 ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "nombre": "Calle 5", "longitud_m": 889.33708930660487, "tipo_trafico": "alto" }, "geometry": { "type": "LineString", "coordinates": [ [ 907.98642434740691, 306.94005496554297 ], [ 331.055451449630084, 983.749563562732192 ] ] } },
+{ "type": "Feature", "properties": { "id": 5, "nombre": "Calle 6", "longitud_m": 617.1926462062105, "tipo_trafico": "medio" }, "geometry": { "type": "LineString", "coordinates": [ [ 330.044766809320492, 873.387644430512978 ], [ 591.445094476620625, 314.284227139532106 ] ] } },
+{ "type": "Feature", "properties": { "id": 6, "nombre": "Calle 7", "longitud_m": 286.84545926920589, "tipo_trafico": "alto" }, "geometry": { "type": "LineString", "coordinates": [ [ 250.0974137942612, 8.011397989106882 ], [ 258.498242637772876, 294.733813537845663 ] ] } },
+{ "type": "Feature", "properties": { "id": 7, "nombre": "Calle 8", "longitud_m": 721.91984707644826, "tipo_trafico": "alto" }, "geometry": { "type": "LineString", "coordinates": [ [ 59.253691069214632, 864.760081872657793 ], [ 526.240570666752092, 314.222599146333778 ] ] } },
+{ "type": "Feature", "properties": { "id": 8, "nombre": "Calle 9", "longitud_m": 360.25275278075418, "tipo_trafico": "medio" }, "geometry": { "type": "LineString", "coordinates": [ [ 624.70291661072838, 206.418159356826067 ], [ 268.009814921090765, 256.936246148954694 ] ] } },
+{ "type": "Feature", "properties": { "id": 9, "nombre": "Calle 10", "longitud_m": 673.66920718794097, "tipo_trafico": "medio" }, "geometry": { "type": "LineString", "coordinates": [ [ 142.85483540394938, 72.42439608550643 ], [ 816.019019019224174, 46.344085297299607 ] ] } }
+]
+}
